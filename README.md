@@ -3,6 +3,8 @@ pidgin-status
 
 A python script that sets Pidgin status message
 
+(This is a very old script, but it still works)
+
 How to run program
 ==================
 
