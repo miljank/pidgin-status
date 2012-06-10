@@ -8,9 +8,17 @@ A python script that sets Pidgin status message
 How to run program
 ==================
 
-pidgin_status.py -m 'My new status message'                   # sets status to '-> My new status message'
-pidgin_status.py -s 'My Favorite Band - My Favorite Song'     # sets status to '_| My Favorite Band - My Favorite Song'
-pidgin_status.py -f /home/myself/quote/my_favorite_quotes.txt # sets message to a random line from the specified file
+- sets status to '-> My new status message'
+
+pidgin_status.py -m 'My new status message'
+
+- sets status to '_| My Favorite Band - My Favorite Song'
+
+pidgin_status.py -s 'My Favorite Band - My Favorite Song'
+
+- sets message to a random line from the specified file
+
+pidgin_status.py -f /home/myself/quote/my_favorite_quotes.txt
 
 Daemon mode
 =============
